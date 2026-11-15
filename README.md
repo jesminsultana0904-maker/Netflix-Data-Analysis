@@ -46,7 +46,7 @@ Place `netflix_titles.csv` in the same folder as the notebook before running it.
 
 ## How to Run
 1. Download or place `netflix_titles.csv` in the project folder.
-2. Open `Netflix_Shows_Analysis_Improved.ipynb` in Jupyter Notebook or JupyterLab.
+2. Open `Netflix_Shows_Analysis.ipynb` in Jupyter Notebook or JupyterLab.
 3. Run the cells from top to bottom.
 4. Review the printed outputs and charts.
 5. Fill in the Key Findings section with the actual results from your run.
